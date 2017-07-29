@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jake Parker&#39;s personal site</title>
-    <description>Jake Parker is a synthetic biologist interested in the forces which shape \ molecular evolution, and harnessing that understanding to build new molecules.\ This site is for thoughts on computational biology, (bio)informatics, synthetic \ biology, biotech startups, innovation and entrepreneurship. 
+    <description>Jake Parker is a synthetic biologist interested in the forces which shape  molecular evolution, and harnessing that understanding to build new molecules.  This site is for thoughts on computational biology, (bio)informatics, synthetic  biology, biotech startups, innovation and entrepreneurship. 
 </description>
     <link>http://jakeparker.xyz/</link>
     <atom:link href="http://jakeparker.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jul 2017 18:55:35 +1000</pubDate>
-    <lastBuildDate>Sat, 29 Jul 2017 18:55:35 +1000</lastBuildDate>
+    <pubDate>Sat, 29 Jul 2017 20:48:11 +1000</pubDate>
+    <lastBuildDate>Sat, 29 Jul 2017 20:48:11 +1000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
