@@ -8,19 +8,8 @@
    "source": [
     "This poster was made for RosettaCon 2018.\n",
     "\n",
-    "<img src=\"./jakeparker_RosettaCon_poster_portrait.png\" width=800 height=300>\n",
-    "\n",
-    "<img src=\"./test.jpg\" width=800 height=300>"
+    "<img src=\"./jakeparker_RosettaCon_poster_portrait.png\" width=800 height=300>"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
